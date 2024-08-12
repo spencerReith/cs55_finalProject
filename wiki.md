@@ -2,6 +2,9 @@ __Spencer Reith & Jackson Easley__<br>
 __CS55 Final Project__<br>
 __24X__<br>
 
+UPDATE Aug. 12 2024
+--> this file is out of date. Please refer to the 'wiki' section of our repo. There you will find a page dedicated to each milestone.
+
 __Element of Cloud Security that will be the focus of our project:__<br>
 Services to protect web applications from common exploits and DDoS attacks.
 
