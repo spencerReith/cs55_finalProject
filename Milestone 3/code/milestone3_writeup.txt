@@ -1,0 +1,18 @@
+Milestone 3 Write-Up
+Spencer Reith and Jackson Easley
+
+Task 1: Deploy a functional Cloud environment for your example organization
+Following your plan from Milestone 2 - deploy the AWS systems required for your project
+
+Document on your Project Site the steps required to deploy the systems - with labeled screenshots
+SUBMIT: Link to the deployment steps and screenshots on your Project Site  
+
+Task 2: Test the Functionality of your Test Environment
+Depending on the needs of your chosen topic - test that the systems are functioning as required.  This could include:
+Validating neccessary services are running (e.g. web services, file sharing...)
+Validating proper network access (e.g. can systems talk to each other if needed, can they access the Internet if needed...)
+Validating proper authentication (e.g. can necessary users access the systems)
+
+On your project site, create a page/section that documents your testing and validation
+
+SUBMIT: Link to the testing details on your project site
