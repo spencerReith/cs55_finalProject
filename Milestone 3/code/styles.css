@@ -1,4 +1,15 @@
-/* Reset some default styles */
+/* Created style sheet from a mix of sources, as I'm very unframiliar with css
+see my citations here - 
+
+1. W3 Schools gave basics - https://www.w3schools.com/html/html_css.asp
+2. Notes about hovering - https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
+2. ChatGPT helped create some elements of the sheet. Here are the queries I asked - 
+How do I reset default margins and padding for all elements in my CSS?
+How can I style a header with a dark background and center the text in it?
+What is the best way to style navigation links in a horizontal list?
+How can I style a section with a white background?
+What is the best way for styling buttons with consistent colors and hover effects? */
+
 body, h1, h2, h3, p, ul, ol {
     margin: 0;
     padding: 0;
