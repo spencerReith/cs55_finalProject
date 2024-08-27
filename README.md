@@ -51,4 +51,5 @@ AWS CloudFront
 
 AWS WAF
 
-**Instructions for Replication**
+### Instructions for Replication / Set-Up Information
+Instructions for Replecation and Set-Up Information are detailed in our **Project Summary**, in 'Milestone4 (Task 2)'
