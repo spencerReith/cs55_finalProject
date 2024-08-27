@@ -46,4 +46,4 @@ We used several AWS resources and programming languages to create our Cloud envi
 - AWS WAF
 
 ### Instructions for Replication / Set-Up Information
-Instructions for Replecation and Set-Up Information are detailed in our **Project Summary**, in 'Milestone 4 (Task 2)'
+Instructions for Replecation and Set-Up Information are detailed in 'Milestone 4 (Task 2)'
