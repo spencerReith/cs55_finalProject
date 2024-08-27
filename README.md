@@ -35,7 +35,7 @@ We used several AWS resources and programming languages to create our Cloud envi
 **We launched (and protected our servers against) 3 separate DoS and DDoS attacks:**
 - 9,000 packet TCP Flood (originating from 1 server)
 - 500,000 packet TCP Flood (originating from 5 servers)
-- >10,000 packet TCP Flood that was stopped on purpose by AWS CloudWatch (originating from 5 servers)
+- 10,000 packet TCP Flood that was stopped on purpose by AWS CloudWatch (originating from 5 servers)
 
 **We attempted to use the following AWS Services, but for various reasons (described later in this write-up), we changed course:**
 - AWS CloudFront
