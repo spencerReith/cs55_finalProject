@@ -38,9 +38,8 @@ We used several AWS resources and programming languages to create our Cloud envi
 - >10,000 packet TCP Flood that was stopped on purpose by AWS CloudWatch (originating from 5 servers)
 
 **We attempted to use the following AWS Services, but for various reasons (described later in this write-up), we changed course:**
-AWS CloudFront
-
-AWS WAF
+- AWS CloudFront
+- AWS WAF
 
 ### Instructions for Replication / Set-Up Information
 Instructions for Replecation and Set-Up Information are detailed in our **Project Summary**, in 'Milestone4 (Task 2)'
